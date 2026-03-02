@@ -1,4 +1,4 @@
-# BCA Practise Repository
+# BCA Practice Repository
 
 Hello! 👋
 This repository contains my BCA practice programs and learning progress.
