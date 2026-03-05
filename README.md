@@ -15,6 +15,9 @@ python-basics/
 - conditions.py ➡️ if-else program
 - loops.py ➡️ for & while loops
 - input_output.py ➡️ input and output examples
+- functions.py ➡️ functins examples
+- lists.py ➡️ list practice
+- dictionary ➡️ dictionary practice
 
   
   Created by: Gauri
