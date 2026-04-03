@@ -1,29 +1,45 @@
 # Simple calculator
-print("Simple Calculator")
+import math
 
-num1 = float(input("Enter first number"))
-num2 = float(input("Enter second number"))
+print("==== SIMPLE CALCULATOR ====")
 
-print("Choose operation")
-print("1. Add")
-print("2. Subtract")
-print("3. Multiply")
-print("4. Divide")
+while True:
+    num1 = float(input("Enter first number: "))
+    num2 = float(input("Enter second number: "))
 
-choice = input("Enter choice (1/2/3/4): ")
+    print("\nChoose operation:")
+    print("1. Add")
+    print("2. Subtract")
+    print("3. Multiply")
+    print("4. Divide")
+    print("5. Square Root")
 
-if choice == "1":
-  print("Result:", num1 + num2)
+    choice = input("Enter choice: ")
 
-elif choice == "2":
-  print("Result:", num1 - num2)
+    if choice == "1":
+        print("Result:", num1 + num2)
 
-elif choice == "3":
-  print("Result:", num1 * num2)
+    elif choice == "2":
+        print("Result:", num1 - num2)
 
-elif choice == "4":
-  print("Result:", num1 / num2)
+    elif choice == "3":
+        print("Result:", num1 * num2)
 
-else:
-  print("Invalid Output")
+    elif choice == "4":
+        if num2 == 0:
+            print("Cannot divide by zero")
+        else:
+            print("Result:", num1 / num2)
+
+    elif choice == "5":
+        num = float(input("Enter number: "))
+        print("Result:", math.sqrt(num))
+
+    else:
+        print("Invalid choice")
+
+    again = input("\nDo you want to continue? (yes/no): ")
+    if again.lower() != "yes":
+        print("Goodbye!")
+        break
 
