@@ -1,0 +1,6 @@
+Success: User admin logged in
+Failed: Invalid password for admin
+Success: User john logged in
+Failed: Invalid password for guest
+Failed: Invalid password for root
+Success: User alice logged in
