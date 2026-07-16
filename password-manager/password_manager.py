@@ -1,9 +1,14 @@
+import os
+
+FILE_PATH = os.path.join(os.path.dirname(__file__), "passwords.txt")
+
+
 def save_password():
     website = input("Enter website: ")
     username = input("Enter username: ")
     password = input("Enter password: ")
 
-    with open("passwords.txt", "a") as file:
+    with open(FILE_PATH, "a") as file:
         file.write(f"{website} | {username} | {password}\n")
 
     print("\nPassword saved successfully!")
@@ -11,7 +16,7 @@ def save_password():
 
 def view_passwords():
     try:
-        with open("passwords.txt", "r") as file:
+        with open(FILE_PATH, "r") as file:
             print("\nSaved Passwords:")
             print("-" * 40)
             print(file.read())
