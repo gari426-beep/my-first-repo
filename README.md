@@ -1,101 +1,134 @@
 # 🛡️ Cybersecurity Learning Projects
 
-Welcome to my Cybersecurity Learning repository!
+Welcome to my Cybersecurity Learning Repository!
 
-This repository contains Python-based cybersecurity projects that I built while learning cybersecurity concepts and improving my programming skills. Each project focuses on a different security topic and has helped me gain practical experience with Python, networking, cryptography, and file handling.
+This repository contains the Python projects I have built while learning cybersecurity, networking, cryptography, and Python programming.
 
 ---
 
 ## 📂 Projects
 
-### 🔑 Password Generator
-Generates strong, random passwords using Python.
+### 🔐 Password Generator
+Generates strong random passwords using letters, numbers, and special characters.
 
-**Skills:** Random module, strings, loops
+**Skills:** Random module, loops, strings
 
 ---
 
-### 💪 Password Strength Checker
-Checks whether a password is weak, medium, or strong based on common security rules.
+### 🔒 Password Strength Checker
+Checks whether a password is Weak, Medium, or Strong.
 
-**Skills:** String manipulation, conditional statements
+**Skills:** Conditions, string validation
 
 ---
 
 ### 🌐 Port Scanner
-Scans common network ports on a target host to determine whether they are open or closed.
+Scans a target host to identify open ports.
 
-**Skills:** Socket programming, networking
+**Skills:** Socket Programming, Networking
 
 ---
 
 ### 🛡️ File Integrity Checker
-Generates SHA-256 hashes to verify whether a file has been modified.
+Generates and compares SHA-256 hashes to verify file integrity.
 
-**Skills:** Hashing, hashlib, file handling
+**Skills:** Hashlib, File Handling, SHA-256
 
 ---
 
 ### 📄 Log Analyzer
 Reads log files and counts successful and failed login attempts.
 
-**Skills:** File handling, loops, conditions
+**Skills:** File Handling, Loops, Conditions
 
 ---
 
-### 🔒 Caesar Cipher
-Encrypts messages using the Caesar Cipher algorithm.
+### 🔑 Caesar Cipher
+Encrypts and decrypts text using the Caesar Cipher algorithm.
 
-**Skills:** Basic cryptography, ASCII values, functions
+**Skills:** Basic Cryptography, Functions, ASCII
 
 ---
 
-### 🔑 Password Manager
-A simple password manager that allows users to save and view passwords using a menu-driven interface.
+### 🔐 Password Manager
+Stores and retrieves passwords from a local file.
 
-**Skills:** Functions, loops, file handling
+**Skills:** File Handling, Functions, Menu-driven Programs
 
 > **Note:** This project stores passwords in plain text and is intended for learning purposes only.
 
 ---
 
-## 🛠️ Technologies Used
+### 🌍 DNS Lookup Tool
+Finds the IP address of a domain name.
+
+**Skills:** Socket Programming, DNS Resolution
+
+---
+
+### 🖥️ Network Scanner
+Retrieves the hostname and IP address of a website.
+
+**Skills:** Networking, Socket Programming
+
+---
+
+### 🌐 Website Header Scanner
+Retrieves HTTP response headers of a website.
+
+**Skills:** Requests Library, HTTP Protocol
+
+---
+
+### 🔒 File Encryption Tool
+Encrypts and decrypts files using the Fernet encryption algorithm.
+
+**Skills:** Cryptography, File Handling, Encryption
+
+---
+
+### 🔑 Caesar Cipher
+Encrypts and decrypts text using the Caesar Cipher algorithm.
+
+**Skills:** Python, Cryptography
+
+---
+
+## 🛠 Technologies Used
 
 - Python 3
 - Git
 - GitHub
 - Socket Programming
+- Requests Library
+- Cryptography (Fernet)
+- Hashlib (SHA-256)
 - File Handling
-- SHA-256 Hashing
+- Networking
 - Basic Cryptography
 
 ---
 
-## 📚 What I'm Learning
+## 🎯 Learning Goals
 
-- Python Programming
-- Cybersecurity Fundamentals
-- Networking Basics
-- Cryptography
-- Security Automation
-- Git & GitHub
+- Improve Python programming skills
+- Learn networking fundamentals
+- Understand cryptography concepts
+- Practice Git & GitHub
+- Build practical cybersecurity tools
+- Create a strong cybersecurity portfolio
 
 ---
 
 ## 🚀 Upcoming Projects
 
-- DNS & WHOIS Lookup Tool
-- Website Availability Monitor
-- Network Packet Sniffer
-- Multi-threaded Port Scanner
+- Subdomain Finder
+- Packet Sniffer
 - Vulnerability Scanner
-- Security Log Monitor
-
----
-
-## 🎯 Goal
-
-I'm continuously building hands-on cybersecurity projects to strengthen my Python skills, improve my understanding of security concepts, and develop a practical portfolio.
+- MAC Address Lookup
+- URL Scanner
+- WHOIS Lookup Tool
+- IP Geolocation Tool
 
 ---
 
@@ -103,4 +136,6 @@ I'm continuously building hands-on cybersecurity projects to strengthen my Pytho
 
 **Gauri**
 
-Thank you for visiting my repository!
+Cybersecurity Enthusiast | BCA Student | Python Learner
+
+⭐ Thank you for visiting my repository!
