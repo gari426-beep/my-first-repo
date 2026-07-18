@@ -1,0 +1,10 @@
+www
+mail
+ftp
+blog
+api
+docs
+drive
+drivetest
+admin
+vpn
