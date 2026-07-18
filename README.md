@@ -102,6 +102,15 @@ Finds common subdomains of a target website using DNS resolution.
 
 ---
 
+### 🌐 WHOIS Lookup Tool
+
+Retrieves WHOIS information such as registrar, creation date, expiration date, and name servers.
+
+**Skills:** OSINT, Domain Investigation, Python Libraries
+
+---
+
+
 ## 🛠 Technologies Used
 
 - Python 3
@@ -134,7 +143,6 @@ Finds common subdomains of a target website using DNS resolution.
 - Vulnerability Scanner
 - MAC Address Lookup
 - URL Scanner
-- WHOIS Lookup Tool
 - IP Geolocation Tool
 
 ---
