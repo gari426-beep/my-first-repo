@@ -94,6 +94,14 @@ Encrypts and decrypts text using the Caesar Cipher algorithm.
 
 ---
 
+### 🔍 Subdomain Finder
+
+Finds common subdomains of a target website using DNS resolution.
+
+**Skills:** DNS, Socket Programming, File Handling, Reconnaissance
+
+---
+
 ## 🛠 Technologies Used
 
 - Python 3
