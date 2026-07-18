@@ -130,7 +130,6 @@ Finds common subdomains of a target website using DNS resolution.
 
 ## 🚀 Upcoming Projects
 
-- Subdomain Finder
 - Packet Sniffer
 - Vulnerability Scanner
 - MAC Address Lookup
