@@ -124,6 +124,14 @@ Retrieves geographical information about an IP address using a public API.
 
 ---
 
+### 🌐 URL Status Checker
+
+Checks whether a website is reachable and displays its HTTP status code.
+
+**Skills:** HTTP Requests, Status Codes, Exception Handling, Requests Library
+
+---
+
 
 ## 🛠 Technologies Used
 
@@ -155,7 +163,6 @@ Retrieves geographical information about an IP address using a public API.
 
 - Vulnerability Scanner
 - MAC Address Lookup
-- URL Scanner
 
 ---
 
