@@ -110,6 +110,20 @@ Retrieves WHOIS information such as registrar, creation date, expiration date, a
 
 ---
 
+### 📦 Packet Sniffer
+Captures and displays live network packets using Scapy.
+
+**Skills:** Scapy, Packet Analysis, Network Monitoring
+
+---
+
+### 🌍 IP Geolocation Tool
+Retrieves geographical information about an IP address using a public API.
+
+**Skills:** REST API, JSON, HTTP Requests, Requests Library
+
+---
+
 
 ## 🛠 Technologies Used
 
@@ -139,11 +153,9 @@ Retrieves WHOIS information such as registrar, creation date, expiration date, a
 
 ## 🚀 Upcoming Projects
 
-- Packet Sniffer
 - Vulnerability Scanner
 - MAC Address Lookup
 - URL Scanner
-- IP Geolocation Tool
 
 ---
 
