@@ -148,6 +148,14 @@ Generates MD5, SHA-1, and SHA-256 hashes for text and verifies SHA-256 hashes.
 
 ---
 
+### 📂 Directory Brute Forcer
+
+Scans a website for common directories using a custom wordlist and reports accessible or restricted paths.
+
+**Skills:** Python, Requests, HTTP, File Handling, Web Enumeration
+
+---
+
 
 ## 🛠 Technologies Used
 
