@@ -1,0 +1,9 @@
+admin
+login
+dashboard
+images
+uploads
+backup
+test
+api
+robots.txt
