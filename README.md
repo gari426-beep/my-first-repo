@@ -156,6 +156,14 @@ Scans a website for common directories using a custom wordlist and reports acces
 
 ---
 
+### 🔐 Password Leak Checker
+
+Checks whether a password has appeared in known data breaches using the Have I Been Pwned Passwords API while preserving user privacy with k-anonymity.
+
+**Skills:** SHA-1, REST API, HTTP Requests, Password Security, Hashing
+
+---
+
 
 ## 🛠 Technologies Used
 
