@@ -132,6 +132,14 @@ Checks whether a website is reachable and displays its HTTP status code.
 
 ---
 
+### 🛰️ MAC Address Lookup Tool
+
+Looks up the manufacturer (vendor) of a MAC address using a public API.
+
+**Skills:** REST API, HTTP Requests, Networking, MAC Address Identification
+
+---
+
 
 ## 🛠 Technologies Used
 
@@ -162,7 +170,6 @@ Checks whether a website is reachable and displays its HTTP status code.
 ## 🚀 Upcoming Projects
 
 - Vulnerability Scanner
-- MAC Address Lookup
 
 ---
 
