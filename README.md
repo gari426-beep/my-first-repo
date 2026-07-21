@@ -140,6 +140,14 @@ Looks up the manufacturer (vendor) of a MAC address using a public API.
 
 ---
 
+### 🔑 Hash Generator & Verifier
+
+Generates MD5, SHA-1, and SHA-256 hashes for text and verifies SHA-256 hashes.
+
+**Skills:** Hashing, MD5, SHA-1, SHA-256, Data Integrity, Python hashlib
+
+---
+
 
 ## 🛠 Technologies Used
 
