@@ -15,7 +15,7 @@ print("SHA-1   :", sha1_hash)
 print("SHA-256 :", sha256_hash)
 
 print("\nHash Verification")
-user_hash = input("Enter a SHA-256 hash to verify: ")
+user_hash = input("Enter a SHA-256 hash to verify: ").strip().lower()
 
 if user_hash == sha256_hash:
     print("✅ Hash matches!")
