@@ -24,7 +24,17 @@ filename = input("Enter the file name or path: ")
 file_hash = calculate_hash(filename)
 
 if file_hash:
-    print("\nSHA-256 Hash:")
+    print("\nCurrent SHA-256 Hash:")
     print(file_hash)
+
+    expected_hash = input("\nEnter the expected SHA-256 hash: ").strip().lower()
+
+    if file_hash == expected_hash:
+        print("\n✅ File integrity verified!")
+        print("The file has not changed.")
+    else:
+        print("\n⚠️ File integrity check failed!")
+        print("The file may have been modified.")
+
 else:
     print("File not found!")

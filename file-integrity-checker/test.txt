@@ -1,0 +1,2 @@
+This is my file integrity testing file.
+I am testing SHA-256 verification.
